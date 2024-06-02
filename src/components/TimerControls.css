@@ -1,0 +1,4 @@
+.controlDisplay{
+    display: flex;
+    gap: .4em;
+}
